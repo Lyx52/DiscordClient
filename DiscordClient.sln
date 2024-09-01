@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordClient", "DiscordClient\DiscordClient.csproj", "{8EB6E7CE-EE6C-41FC-A387-66FD8178F47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordClientApp", "DiscordClientApp\DiscordClientApp.csproj", "{534AB351-E608-4480-8727-F48FCF58028D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB6E7CE-EE6C-41FC-A387-66FD8178F47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB6E7CE-EE6C-41FC-A387-66FD8178F47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB6E7CE-EE6C-41FC-A387-66FD8178F47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB6E7CE-EE6C-41FC-A387-66FD8178F47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534AB351-E608-4480-8727-F48FCF58028D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534AB351-E608-4480-8727-F48FCF58028D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534AB351-E608-4480-8727-F48FCF58028D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534AB351-E608-4480-8727-F48FCF58028D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
